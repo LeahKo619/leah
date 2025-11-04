@@ -1,20 +1,27 @@
 # leah
-Project Name
-Outline a brief description of your project. Live demo here.
+R&B Remix - Pasifika and Middle Eastern style
+
 
 Table of Contents
+
 General Info
+
 Technologies Used
+
 Features
+
 Usage
+
 Project Status
+
 Room for Improvement
+
 Acknowledgements
 
 
 General Information
 
-I have created a prototype that is a remixed R&B composition in both Pacific island-Siren and Middle Eastern Dabke styles. 
+I have created a prototype that is a remixed R&B composition, Mariah Carey's 'We Belong Together', in both Pacific island-Siren and Middle Eastern Dabke styles. 
 
 
 What problem does it (intend to) solve?
